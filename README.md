@@ -29,7 +29,7 @@ All will run on startup. You should adjust the configuration to your needs.
 3. git clone https://github.com/JesperNaarttijarvi/minotaur-ubuntu-install.git
 4. cd minotaur-install-ubuntu
 5. ansible-playbook -i 'localhost,' -c local playbooks/server.yml
-curl rkw.io/minotaur | sudo bash
+
 
 ````
 
